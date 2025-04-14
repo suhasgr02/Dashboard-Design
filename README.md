@@ -29,9 +29,9 @@ Year, Revenue, Profit Margin, Customer , [Other KPIs].
 How to Use
 Access the Dashboard:
 
-Download the Tableau workbook ([filename.twbx]) and open in Tableau Desktop/Public.
+Download the Tableau workbook ["Suhas Projects\Suhas Tableau\Sales Dashboard.twbx"] and open in Tableau Desktop/Public.
 
-OR View online: [Publish to Tableau Server/Public and add link].
+OR View online: https://public.tableau.com/app/profile/suhas.g.r/viz/SalesDashboard_17355496310260/Dashboard1.
 
 Interactivity Guide:
 
