@@ -1,4 +1,4 @@
-# Dashboard-Design
+# Sales Dashboard
 Tableau Dashboard: Business Performance (2020–2023)
 Sales Dashboard
 A visual analytics tool tracking key metrics and trends over four years.
