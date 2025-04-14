@@ -1,55 +1,82 @@
-# Sales Dashboard
-Tableau Dashboard: Business Performance (2020–2023)
-Sales Dashboard
-A visual analytics tool tracking key metrics and trends over four years.
+# Sales Dashboard  
 
-Dashboard Preview 
-![image](https://github.com/user-attachments/assets/5387dafd-5513-43c7-bec0-4f67b069ac39)
+This repository contains a visually interactive **Sales Dashboard** that provides insights into key performance metrics, including total sales, quantity sold, and profit trends. The dashboard is designed to help businesses track and improve sales performance effectively.  
 
-Overview
-This Tableau dashboard provides stakeholders with an interactive overview of business performance from 2020 to 2023. It transforms raw data into actionable insights through dynamic visualizations, enabling data-driven decision-making.
+---
 
-Key Features:
+## 📊 **Overview**  
 
-Year-over-year comparisons (2020–2023).
+The Sales Dashboard provides a comprehensive view of:  
 
-Filters for drilling down into specific metrics (e.g., revenue, customer growth).
+- **Total Sales**: Monthly sales growth compared to the previous year (PY).  
+- **Total Quantity**: Trends in the quantity of products sold over time.  
+- **Total Profit**: Year-over-year profit analysis.  
+- **Subcategory Performance**: Breakdown of sales and profits for individual product subcategories.  
+- **Weekly Trends**: Visualization of weekly sales and profit fluctuations against average benchmarks.  
 
-Mobile-responsive design for accessibility.
+---
 
+## 🚀 **Key Features**  
 
-Data Sources
-Primary Dataset: "C:\Users\suhas\Desktop\Suhas Projects\Suhas Tableau\Customers.csv" , "C:\Users\suhas\Desktop\Suhas Projects\Suhas Tableau\Location.csv",
-"C:\Users\suhas\Desktop\Suhas Projects\Suhas Tableau\Orders.csv", "C:\Users\suhas\Desktop\Suhas Projects\Suhas Tableau\Products.csv".
+1. **Year-over-Year Comparison**: Highlighting percentage changes in sales, quantity, and profit compared to the previous year.  
+2. **Product Subcategory Insights**: Detailed analysis of the performance of individual subcategories, helping to identify profitable and underperforming products.  
+3. **Weekly Trends**: Graphs showcasing weekly sales and profit patterns with average performance indicators.  
+4. **Interactive Design**: Filter options ( year selection) for dynamic data exploration.  
 
-Data Fields:
+---
 
-Year, Revenue, Profit Margin, Customer , [Other KPIs].
+## 📂 **Repository Contents**  
 
-How to Use
-Access the Dashboard:
+- **`(https://github.com/user-attachments/assets/e5bdf6fb-ea6f-4e26-a197-83529b731d96)
+`**: Screenshot of the Sales Dashboard.  
+- **`(https://public.tableau.com/app/profile/suhas.g.r/viz/SalesDashboard_17355496310260/Dashboard1)`**: Source code used to create the dashboard ( Tableau).  
+- **`README.md`**: Repository documentation.  
 
-Download the Tableau workbook ["Suhas Projects\Suhas Tableau\Sales Dashboard.twbx"] and open in Tableau Desktop/Public.
+---
 
-OR View online: https://public.tableau.com/app/profile/suhas.g.r/viz/SalesDashboard_17355496310260/Dashboard1.
+## 🛠️ **Setup Instructions**  
 
-Interactivity Guide:
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/suhasgr02/Dashboard-Design.git  
+   ```  
 
-Use year filters to toggle between 2020–2023.
+2. Install required tools (Tableau).  
 
-Hover over charts for tooltip details.
+3. Load the provided dataset and script into your analysis environment.  
 
-Click legends to isolate categories.
+4. Interact with the dashboard to analyze sales performance!  
 
-Customize:
+---
 
-Edit data connections in Tableau to update datasets.
+## 📚 **Data Insights**  
 
-Adjust visuals via the "Sheet" tab.
+### Key Performance Indicators (KPIs):  
+- **Total Sales**: Increased by **20.36%** vs PY.  
+- **Total Quantity**: Increased by **26.83%** vs PY.  
+- **Total Profit**: Increased by **14.24%** vs PY.  
 
-Setup & Requirements
-Tools: Tableau Desktop 2023+ (or Tableau Public for free).
+### Notable Trends:  
+- **Top-performing Subcategories**: Copiers and Bookcases show the highest profit margins.  
+- **Underperforming Subcategories**: Fasteners and Envelopes report minimal or negative profits.  
+- **Weekly Trends**: Sales and profits consistently outperform averages in specific weeks, indicating peak periods.  
 
-Data Format: Cleaned CSV/Excel files (see data/ folder).
+---
 
-Permissions: Ensure data access rights for stakeholders.
+## 🤝 **Contributing**  
+
+Contributions to enhance the dashboard or add features are welcome. Feel free to open an issue or submit a pull request.  
+
+---
+
+## 📄 **License**  
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.  
+
+---
+
+## ✉️ **Contact**  
+
+For any questions or suggestions, feel free to contact [Suhas G R](mailto:suhasgr7479@gmail.com).  
+
+--- 
